@@ -23,6 +23,6 @@ BME280 data (temperature, air pressure and humidity) on the Raspberry Pi 5. Retr
 
 ![Console output](/Doc/Console_BME280_data.jpg)
 
-![BME280 raw data burst via SPI](/Doc/bmp_89_002.bmp)
+![BME280 raw data burst via SPI](/Doc/bmp_97_000.bmp)
 
 BME280 raw data burst via SPI
